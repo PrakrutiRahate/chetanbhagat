@@ -130,7 +130,7 @@ class _BooksState extends State<Books> {
                       width: MediaQuery.sizeOf(context).width / 3.5,
                     ),
                     Text(
-                      "Books",
+                      "Books page",
                       style: TextStyle(fontSize: 25, color: Colors.white),
                     ),
                   ],
